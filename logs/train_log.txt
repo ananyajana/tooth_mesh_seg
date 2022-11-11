@@ -1,0 +1,4 @@
+11-11 02:58	***** Training starts *****
+11-11 02:58	save directory: ./logs
+11-11 02:58	Use Adam
+11-11 02:58	Training model...
